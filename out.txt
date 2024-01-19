@@ -1,0 +1,40 @@
+Is defined in : cls_person Type: int name: age value:
+Is defined in : cls_person Type: float name: mlp value:
+Is defined in : cls_person Type: int name: vect2[2] :=3 4 
+Is defined in : cls_person Type: int name: c value:
+Is defined in : cls_person Type: CONST int name:constanta value:4
+Is defined in : cls_family Type: int name: tata value:
+Is defined in : cls_family Type: int name: mama value:
+Is defined in : cls_family Type: CONST int name:copil3 value:4
+In Global Type: string name: frate200 value: 
+In Global Type: int name: ggggg[5] :=2 1 3 4 5 
+Is defined in : fn_baby Type: string name: cb value:
+Is defined in : fn_baby Type: int name: val value:3
+Is defined in : fn_baby Type: int name: vect[30] :=
+Is defined in : fn_baby Type: int name: matri[2][30] value:
+Is defined in : fn_baby Type: int name: vect2[2] :=3 4 
+Is defined in : fn_baby Type: int name: vect3[5] :=100 2 7 8 5 
+Is defined in : fn_bbb Type: bool name: da value:
+Is defined in : fn_add2 Type: int name: helo value:
+Is defined in : fn_fromclas Type: string name: ciao value:
+Is defined in : main Type: int name: a value:3
+Is defined in : main Type: int name: b value:
+Is defined in : main Type: int name: ffffff[300] :=
+Is defined in : main Type: int name: bac value:
+Is defined in : main Type: string name: c value:
+Type Member Function: cls_person  ReturnType: int Fun_name:fn_add
+Parameter Types: int int Type Member Function: cls_family  ReturnType: float Fun_name:fn_add
+Parameter Types: int int 
+ ReturnType: int Fun_name:fn_baby
+Parameter Types: int 
+ ReturnType: string Fun_name:fn_bbb
+Parameter Types: int 
+ ReturnType: int Fun_name:fn_add2
+Parameter Types: int float 
+ ReturnType: int Fun_name:fn_fromclas
+Parameter Types: cls_family 
+Type class: cls_person
+ Obj decl: obj1 Obj decl: obj
+
+Type class: cls_family
+ Obj decl: ala
